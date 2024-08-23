@@ -1,0 +1,11 @@
+[ERROR] 2022-07-12 15:06:27 local variable 'title' referenced before assignment
+ file:/Users/tt/Projects/python/新闻聚合毕业设计/utils/requestHandler.py line:25[ERROR] 2022-07-12 15:06:31 local variable 'title' referenced before assignment
+ file:/Users/tt/Projects/python/新闻聚合毕业设计/utils/requestHandler.py line:25[ERROR] 2022-07-12 15:06:31 local variable 'title' referenced before assignment
+ file:/Users/tt/Projects/python/新闻聚合毕业设计/utils/requestHandler.py line:25[ERROR] 2022-07-12 15:06:31 local variable 'title' referenced before assignment
+ file:/Users/tt/Projects/python/新闻聚合毕业设计/utils/requestHandler.py line:25[ERROR] 2022-07-12 15:06:32 local variable 'title' referenced before assignment
+ file:/Users/tt/Projects/python/新闻聚合毕业设计/utils/requestHandler.py line:25[ERROR] 2022-07-12 15:06:32 local variable 'title' referenced before assignment
+ file:/Users/tt/Projects/python/新闻聚合毕业设计/utils/requestHandler.py line:25[ERROR] 2022-07-12 15:06:35 local variable 'title' referenced before assignment
+ file:/Users/tt/Projects/python/新闻聚合毕业设计/utils/requestHandler.py line:25[ERROR] 2022-07-12 15:06:35 local variable 'title' referenced before assignment
+ file:/Users/tt/Projects/python/新闻聚合毕业设计/utils/requestHandler.py line:25[ERROR] 2022-07-12 15:06:36 local variable 'title' referenced before assignment
+ file:/Users/tt/Projects/python/新闻聚合毕业设计/utils/requestHandler.py line:25[ERROR] 2022-07-12 15:06:36 local variable 'title' referenced before assignment
+ file:/Users/tt/Projects/python/新闻聚合毕业设计/utils/requestHandler.py line:25

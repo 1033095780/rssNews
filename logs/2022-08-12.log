@@ -1,0 +1,4 @@
+[ERROR] 2022-08-12 09:41:16 https://ttrss.vercel.app/thepaper/featured:空内容错误
+ file:/Users/tt/Projects/python/新闻聚合毕业设计/utils/requestHandler.py line:25[ERROR] 2022-08-12 09:53:22 'published'
+ file:/Users/tt/Projects/python/新闻聚合毕业设计/utils/requestHandler.py line:25[ERROR] 2022-08-12 09:56:17 'published'
+ file:/Users/tt/Projects/python/新闻聚合毕业设计/utils/requestHandler.py line:25

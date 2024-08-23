@@ -1,0 +1,3 @@
+[ERROR] 2022-08-06 14:47:02 https://ttrss.vercel.app/weexcn/news/2:空内容错误
+ file:/Users/tt/Projects/python/新闻聚合毕业设计/utils/requestHandler.py line:25[ERROR] 2022-08-06 14:47:45 HTTPSConnectionPool(host='maker.ifttt.com', port=443): Max retries exceeded with url: /trigger/notice/with/key/bBNLmWQTgwYnbV6dQloKT1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x14e5ce2b0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+ file:/Users/tt/Projects/python/新闻聚合毕业设计/utils/requestHandler.py line:25
